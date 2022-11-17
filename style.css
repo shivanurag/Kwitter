@@ -1,0 +1,15 @@
+body
+{
+background-color: dodgerblue;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#div1
+{
+    margin-left: 500px;
+}
+
+#cutebird
+{
+border-radius: 30px;
+}
